@@ -23,11 +23,9 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 
 ### Étapes pour cloner et exécuter le projet
 
-1. Clonez le dépôt :
+1. Télécharger le projet :
 
-    ```bash
-    git clone https://github.com/lolosk/MetaCatch.git
-    ```
+    ![Projet](https://github.com/lolosk/MetaCatch.git](https://drive.google.com/file/d/1IYbPcC4fJ9FyS5TNLJwJqDU03MZOK006/view?usp=sharing)
 
 2. Ouvrez le projet dans Android Studio :
 
