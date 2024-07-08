@@ -25,7 +25,7 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 
 1. Télécharger le projet :
 
-    ![Projet](https://github.com/lolosk/MetaCatch.git](https://drive.google.com/file/d/1IYbPcC4fJ9FyS5TNLJwJqDU03MZOK006/view?usp=sharing)
+![Projet](https://github.com/lolosk/MetaCatch.git](https://drive.google.com/file/d/1IYbPcC4fJ9FyS5TNLJwJqDU03MZOK006/view?usp=sharing)
 
 2. Ouvrez le projet dans Android Studio :
 
