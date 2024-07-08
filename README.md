@@ -47,6 +47,7 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 
 ## Structure du projet
 
+```bash
 MetaCatch/
 ├── app/
 │   ├── src/
@@ -67,7 +68,7 @@ MetaCatch/
 │   ├── build.gradle.kts
 ├── build.gradle.kts
 ├── settings.gradle.kts
-
+```
 
 ## Licence
 
