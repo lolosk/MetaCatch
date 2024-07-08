@@ -9,8 +9,8 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 
 ## Captures d'écran
 
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
+![Screenshot1](screenshot1.png)
+![Screenshot2](screenshot2.png)
 
 ## Installation
 
