@@ -24,7 +24,7 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 1. Clonez le dépôt :
 
     ```bash
-    git clone https://github.com/<votre-nom-utilisateur>/MetaCatch.git
+    git clone https://github.com/lolosk/MetaCatch.git
     ```
 
 2. Ouvrez le projet dans Android Studio :
@@ -49,19 +49,25 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 
 MetaCatch/
 ├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/lolosk/metacatch/
-│ │ │ │ └── MainActivity.java
-│ │ │ ├── res/
-│ │ │ │ ├── layout/
-│ │ │ │ │ └── activity_main.xml
-│ │ │ │ ├── drawable/
-│ │ │ │ ├── mipmap/
-│ │ │ │ └── values/
-│ │ │ └── AndroidManifest.xml
-│ └── build.gradle.kts
-└── build.gradle.kts
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── lolosk/
+│   │   │   │       └── metacatch/
+│   │   │   │           └── MainActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   ├── drawable/
+│   │   │   │   ├── mipmap/
+│   │   │   │   ├── values/
+│   │   │   │   ├── xml/
+│   │   │   │   │   └── file_paths.xml
+│   │   │   └── AndroidManifest.xml
+│   ├── build.gradle.kts
+├── build.gradle.kts
+├── settings.gradle.kts
+
 
 ## Licence
 
