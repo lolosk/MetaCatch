@@ -14,6 +14,8 @@ MetaCatch est une application Android simple qui permet aux utilisateurs de visu
 
 ## Installation
 
+### (L'apk est directement utilisable pour tester)
+
 ### Prérequis
 
 - Android Studio installé
